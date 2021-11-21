@@ -1,7 +1,7 @@
 ---
 Author: 
-Silvia Fratarcangeli 
-Filippo Menegatti
+- Silvia Fratarcangeli 
+- Filippo Menegatti
 ---
 
 # Hate_Detection
