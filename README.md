@@ -1,5 +1,7 @@
 ---
-Author: Silvia Fratarcangeli \n Filippo Menegatti
+Author: 
+Silvia Fratarcangeli 
+Filippo Menegatti
 ---
 
 # Hate_Detection
